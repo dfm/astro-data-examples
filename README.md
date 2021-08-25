@@ -1,4 +1,4 @@
-# astro-data-examples
+# Astronomical probabilistic data analysis examples
 
 _Example astronomy data analysis problems tackled using probabilistic models_
 
